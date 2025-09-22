@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1758184524 source:c:\vaishnavi\practical6.2\main.c
+	<stdio.h>
+	<string.h>
+
